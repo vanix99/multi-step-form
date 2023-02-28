@@ -27,12 +27,16 @@ input:focus{
   outline: var(--purplish-blue) 1px solid;
 }
 
-input:invalid{
+/* input:invalid{
   border-color: var(--strawberry-red) !important;
   outline: var(--strawberry-red) 1px solid;
+} */
+
+input{
+ border:0
 }
 
-input:invalid + .span{
+/* input:invalid + .span{
   color: var(--strawberry-red) !important;
   display: block !important;
-}
+} */
