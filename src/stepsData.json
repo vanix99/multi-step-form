@@ -1,0 +1,25 @@
+[
+    {
+        "circule_title" : "YOUR INFO", 
+        "main_title" : "Personal Info", 
+        "description": "Please provide your number, email adresse and phone number."
+    },
+    
+    {
+        "circule_title" : "SELECT PLAN", 
+        "main_title" : "Select your plan", 
+        "description": "You have the option of mounthly or yearly  billing."
+    },
+    
+    {
+        "circule_title" : "ADD-ONS", 
+        "main_title" : "Pick add-ons", 
+        "description": "Add-ons help enchance your gaming experience"
+    },
+    
+    {
+        "circule_title" : "SUMMARY", 
+        "main_title" : "Finishing up", 
+        "description": "Double-check everything looks OK confirming"
+    }
+]
